@@ -1,6 +1,15 @@
 # -*- coding: UTF-8 -*-
 
 
+"""
+Utilização da instrução if 
+
+
+Caso a instrução seja verdadeira ela é
+executada.
+
+"""
+
 
 x = 1
 y = 1
